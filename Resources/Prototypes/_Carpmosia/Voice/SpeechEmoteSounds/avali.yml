@@ -48,6 +48,12 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
+    Purr:
+      collection: TajaranPurrs
+    Trill:
+      collection: TajaranTrills
+    Hiss:
+      collection: TajaranHisses
 
 - type: emoteSounds
   id: FemaleAvali
@@ -99,3 +105,9 @@
       collection: FemaleGasp
     DefaultDeathgasp:
       collection: FemaleDeathGasp
+    Purr:
+      collection: TajaranPurrs
+    Trill:
+      collection: TajaranTrills
+    Hiss:
+      collection: TajaranHisses
